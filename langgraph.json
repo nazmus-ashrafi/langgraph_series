@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "one_multi_approach_graph": "./src/one_multi_approach_graph/graph.py:graph"
+    },
+  "env": ".env"
+}
+
