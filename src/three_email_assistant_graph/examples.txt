@@ -1,0 +1,14 @@
+{
+  "author": "Professor Kendrick <prof.kendrick@university.com>",
+  "to": "Nazmus Ashrafi <nazmus.ashrafi@university.com>",
+  "subject": "Quick question about your research interest",
+  "email_thread": "Hi Nazmus,\nI hope you’re doing well. As we begin to plan for upcoming projects, I wanted to check in and learn more about your current research interests. It would be helpful to hear what topics or areas you’re most excited about exploring so we can align them with potential opportunities. Looking forward to your thoughts!\nProfessor Kendrick"
+}
+
+
+{
+    "author": "System Admin <sysadmin@university.com>",
+    "to": "Nazmus Ashrafi <nazmus.ashrafi@university.com>",
+    "subject": "Scheduled maintenance - database downtime",
+    "email_thread": "Hi ,\n\nThis is a reminder that we'll be performing scheduled maintenance on the university database tonight from 2AM to 4AM EST. During this time, all database services will be unavailable.\n\nPlease plan your work accordingly and ensure no critical deployments are scheduled during this window.\n\nThanks,\nSystem Admin Team"
+}

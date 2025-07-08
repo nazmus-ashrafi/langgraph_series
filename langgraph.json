@@ -2,7 +2,8 @@
   "dependencies": ["."],
   "graphs": {
     "one_multi_approach_graph": "./src/one_multi_approach_graph/graph.py:graph",
-    "two_search_reflect_graph": "./src/two_search_reflect_graph/graph.py:graph"
+    "two_search_reflect_graph": "./src/two_search_reflect_graph/graph.py:graph",
+    "three_email_assistant": "./src/three_email_assistant_graph/graph.py:graph"
     },
   "env": ".env"
 }
